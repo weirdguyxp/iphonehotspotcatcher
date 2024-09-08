@@ -1,0 +1,1 @@
+* * * * * sh /home/pi/envtest.sh > out2.txt 2>&1
